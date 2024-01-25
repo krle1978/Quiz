@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quizz 2.0</string>
+    <string name="true_button_txt">True</string>
+    <string name="false_button_txt">False</string>
+    <string name="gameover_textbox_txt">Game Over</string>
+    <string name="pointwindow_textbox_txt">Points</string>
+    <string name="question01_txt">Valentines day is banned in Saudi Arabia.</string>
+    <string name="question02_txt">A slug\'s blood is green.</string>
+    <string name="question03_txt">Approximately one quarter of human bones are in the feet.</string>
+    <string name="question04_txt">The total surface area of two human lungs is
+        approximately 70 square meters.</string>
+    <string name="question05_txt">In West Virginia, USA, if you accidentally hit an animal with
+        your car, you are free to take it home to eat.</string>
+    <string name="question06_txt">In London, UK, if you happen to die in the House of Parlaiment,
+        you are technicaly entitled to a state furneral, because the building is considered
+        too sacred a place.</string>
+    <string name="question07_txt">It is illegal to pee in the Ocean in Portugal.</string>
+    <string name="question08_txt">You can lead a cow down stairs but not up stairs.</string>
+    <string name="question09_txt">Google was originally called "Backrub".</string>
+    <string name="question10_txt">Buzz Aldrin\'s mother\'s maiden name was "Moon".</string>
+    <string name="question11_txt">The loudest sound produced by an animal is 188 decibels.
+        That animal is the African Elephant.</string>
+    <string name="question12_txt">No piece of square dry paper can be folded in half more
+        than 7 times.</string>
+    <string name="question13_txt">Chocolate affects a dig\'s heart and nervous system;
+        a few ounces are enough to kill a small dog.</string>
+    <string name="gameover_txt">Game Over.\nYou scored: </string>
+    <string name="closeapp_button_txt">Kill The App</string>
+    <string name="initial_score">0 / 13</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizz 2.0</string>
+    <string name="true_button_txt">WAHR</string>
+    <string name="false_button_txt">FALSCH</string>
+    <string name="gameover_textbox_txt">Spiel Ende</string>
+    <string name="pointwindow_textbox_txt">Punkte</string>
+    <string name="question01_txt">Der Valentinstag ist in Saudi-Arabien verboten.</string>
+    <string name="question02_txt">Das Blut einer Schnecke ist grün.</string>
+    <string name="question03_txt">Etwa ein Viertel der menschlichen Knochen befinden sich in den Füßen.</string>
+    <string name="question04_txt">Die Gesamtoberfläche zweier menschlicher Lungen beträgt
+        ca. 70 qm.</string>
+    <string name="question05_txt">Wenn Sie in West Virginia, USA, versehentlich ein Tier mit
+        Ihrem Auto transportieren, können Sie es zum Essen mit nach Hause nehmen.</string>
+    <string name="question06_txt">Wenn Sie in London, Großbritannien, zufällig im Parlament sterben,
+        Sie haben technisch gesehen Anspruch auf ein Staatsbegräbnis, da das Gebäude in Betracht gezogen wird
+        ein zu heiliger Ort.</string>
+    <string name="question07_txt">In Portugal ist es illegal, ins Meer zu pinkeln.</string>
+    <string name="question08_txt">Sie können eine Kuh eine Treppe hinunterführen, aber nicht eine Treppe hinauf.</string>
+    <string name="question09_txt">Google hieß ursprünglich „Backrub“.</string>
+    <string name="question10_txt">Der Mädchenname der Mutter von Buzz Aldrin war „Moon“.</string>
+    <string name="question11_txt">Der lauteste von einem Tier erzeugte Ton beträgt 188 Dezibel.
+        Dieses Tier ist der Afrikanische Elefant.</string>
+    <string name="question12_txt">Kein Stück quadratisches, trockenes Papier lässt sich mehr
+        in der Mitte falten als 7 mal.</string>
+    <string name="question13_txt">Schokolade beeinflusst das Herz und das Nervensystem eines Menschen.
+        Ein paar Unzen reichen aus, um einen kleinen Hund zu töten.</string>
+    <string name="gameover_txt">Spiel Ende. \nIhre Punkte: </string>
+    <string name="closeapp_button_txt">Killen Die App</string>
+    <string name="initial_score">0 / 13</string>
+</resources>

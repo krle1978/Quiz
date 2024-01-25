@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quizz 2.0</string>
+    <string name="true_button_txt">Tačno</string>
+    <string name="false_button_txt">Pogrešno</string>
+    <string name="gameover_textbox_txt">Kraj Igre</string>
+    <string name="pointwindow_textbox_txt">Poeni</string>
+    <string name="question01_txt">Dan zaljubljenih je zabranjen u Saudijskoj Arabiji.</string>
+    <string name="question02_txt">Krv puža je zelena.</string>
+    <string name="question03_txt">Otprilike jedna četvrtina ljudskih kostiju nalazi se u stopalima.</string>
+    <string name="question04_txt">Ukupna površina dva ljudska pluća jeoko 70 kvadratnih metara.</string>
+    <string name="question05_txt">U Zapadnoj Virdžiniji, SAD, ako slučajno udarite životinju automobilom, možete je slobodno odneti kući da je jedete.</string>
+    <string name="question06_txt">U Londonu, UK, ako slučajno umrete u Domu parlamenta, tehnički imate pravo na državnu sahranu, jer se zgrada smatra previše svetim mestom.</string>
+    <string name="question07_txt">U Portugalu je ilegalno piškiti u okeanu.</string>
+    <string name="question08_txt">Možete voditi kravu niz stepenice, ali ne i uz stepenice.</string>
+    <string name="question09_txt">Google se prvobitno zvao „Backrub“.</string>
+    <string name="question10_txt">Devojačko prezime majke Baza Oldrina bilo je „Mesec“.</string>
+    <string name="question11_txt">Najglasniji zvuk koji proizvodi životinja je 188 decibela. Ta životinja je afrički slon.</string>
+    <string name="question12_txt">Nijedan komad četvrtastog suvog papira ne može se presaviti na pola više od 7 puta.</string>
+    <string name="question13_txt">Čokolada utiče na srce i nervni sistem pasa; nekoliko unci je dovoljno da ubije malog psa.</string>
+    <string name="gameover_txt">Kraj igre.\nOsvojili ste: </string>
+    <string name="closeapp_button_txt">Ubij Applikaciju</string>
+    <string name="initial_score">0 / 13</string>
+</resources>
